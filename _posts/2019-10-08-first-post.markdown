@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Measure Zero!"
+title:  "Introducing a New Blog!"
 date:   2019-10-08
 categories: meta
 ---
