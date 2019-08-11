@@ -1,6 +1,6 @@
 # Site settings
 title: Measure Zero
-email: billyanhuang@gmail.com
+email: billyanhuang+mz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of short posts on things.
 baseurl: "" # the subpath of your site, e.g. /blog/
