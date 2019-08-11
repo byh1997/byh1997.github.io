@@ -1,6 +1,3 @@
-<script src="//yihui.name/js/math-code.js"></script>
-<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
 ---
 layout: post
 title:  "Basic Concepts in Statistics!"
@@ -13,6 +10,8 @@ As you probably know, **statistics** involves the collection, analysis, and inte
 
 A **statistic** is a summary of data. For example, if you flip a coin ten times, the number of heads is a statistic. Instead of remembering the entire sequence *HTHTTHHTHH*, all you need to remember is *6*. 
 
-A **hypothesis test** is a method of assessing the validity of an explanation. For example, to test if a coin is fair, you might flip it ten times. If the coin comes up heads every single time, then the coin is probably unfair.
+A **hypothesis test** is a method of assessing the validity of an explanation (the *null hypothesis*). For example, to test if a coin is fair, you might flip it ten times. If the coin comes up heads every single time, then the coin is probably unfair.
 
-Statistics combines the two. To test if the coin is fair, you might reason that if the number of heads is 0, 1, 9, or 10, the coin is unfair. 
+Statistics is the result of combining the two. Instead of inspecting the entire sequence to determine if the coin is fair, reading the statistic (the number of heads) is enough. 
+
+Of course, no test is perfect: if the coin is indeed fair, there's still a chance that you'd think the coin is unfair if all the flips were heads by chance.
