@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Website of Things"
+title:  "Soundbites of Things"
 date:   2019-10-08
 categories: meta
 ---
